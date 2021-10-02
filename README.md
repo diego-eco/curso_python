@@ -51,6 +51,7 @@ Sesiones: Martes y jueves de 6-8 pm del 5 al 28 de octubre
 # Sesión 4 Diego
 
 - Manejo básico de texto (`strings`)
+- Prefijos, sufijos, cambiar a minúsculas
 - Introducción a Pandas
 - DataFrames y Series
 - Filtrar variables y valores
@@ -65,10 +66,8 @@ Sesiones: Martes y jueves de 6-8 pm del 5 al 28 de octubre
 - Reshape algún ejemplo 
 - Resumir información (summary y tablas)
 - Tablas resumen
-- Métodos para texto (string) en Pandas
-- Prefijos, sufijos, cambiar a minúsculas
 - Expresiones regulares (Regex)
-- Algo básico de Regex...
+  - Algo básico de Regex...
 
 # Sesión 6 Emma
 
