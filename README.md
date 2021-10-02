@@ -35,6 +35,7 @@ Sesiones: Martes y jueves de 6-8 pm del 5 al 28 de octubre
 - Explicar qué es una clase y revisar métodos base Python
 - Introducción a Numpy arrays
 - Qué es un data.frame, propiedades, índices
+- Lambda
 
  # Sesión 3 Emma
 
