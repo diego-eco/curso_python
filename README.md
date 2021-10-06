@@ -27,15 +27,16 @@ Sesiones: Martes y jueves de 6-8 pm del 5 al 28 de octubre
 
 # Sesión 2
 
+- Definición de funciones por el usuario. Alcance, argumentos
 - Secuencias y loops: `while, if, else, elif` Ejemplo de cada uno
+- Lambda functions
 - Diccionarios básicos y por comprensión
-- Creamos un diccionario (Ej. Harry Potter) {Casa: Personaje}
-- Definición de funciones def fun:{} 
+- Ejemplo: Diccionario
 - Clases y métodos
 - Explicar qué es una clase y revisar métodos base Python
 - Introducción a Numpy arrays
 - ¿Qué es un data.frame?, propiedades, índices
-- Lambda functions
+- Configurando Python en Stata, R y Matlab
 
  # Sesión 3
 
