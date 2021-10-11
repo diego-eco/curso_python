@@ -38,7 +38,7 @@ Sesiones: Martes y jueves de 6-8 pm del 5 al 28 de octubre
 
  # Sesión 3
 
-- Introducción a Scipy
+- Introducción a Numpy & Scipy
 - Funciones principales
 - Operaciones básicas en Numpy
 - Vectores y matrices 
